@@ -1,7 +1,7 @@
 # glowing-octo-potato
 
 ## 1、说明
-还用说啥、下载好好看去吧
+还用说啥、下载好，好好看去吧
 
 
 
@@ -9,10 +9,12 @@
 点击下载，即可观看使用
 
 
-
 ## 3、关于我
+[个人博客](https://zhyoulove.github.io/)
 
-### Hi there 👋
+
+
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -26,10 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[个人博客](https://zhyoulove.github.io/)
 
 
-
-
-# 
 
