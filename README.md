@@ -1,23 +1,20 @@
 # glowing-octo-potato
 
 ## 1、说明
-
-想呗
+还用说啥、下载好，好好看去吧
 
 
 
 ## 2、如何使用
-
-想呗
-
+点击下载，即可观看使用
 
 
 ## 3、关于我
+[个人博客](https://zhyoulove.github.io/)
 
-### Hi there 👋
 
-<!--
-**GULU-H/GULU-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -29,12 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
-
-[个人博客](https://zhyoulove.github.io/)
 
 
 
 
-# 
 
